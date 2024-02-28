@@ -57,14 +57,14 @@ global.website   = 'https://maher-zubair.tech' ;
 
 
 //===========================[COMPULSORY VARIABLES]================================
-global.owner = process.env.OWNER_NUMBER  || '923466319114' ;  // ADD YOUR NUMBER WITHOUT +
+global.owner = process.env.OWNER_NUMBER  || '2349069133824' ;  // ADD YOUR NUMBER WITHOUT +
 global.mongodb = process.env.MONGODB_URI || "" ;            // PUT MONGODB KEY HERE, WITHOUT MONGODB YOUR BOT WILL NOT RUN
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZONE OR LEAVE IT SAME , OTHERWISE YOU GET ERROS
 //=================================================================================
 
 
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
-global.sudo  =  process.env.SUDO || "923466319114" ;          // DON'T REMOVE
+global.sudo  =  process.env.SUDO || "2349069133824" ;          // DON'T REMOVE
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
 global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
